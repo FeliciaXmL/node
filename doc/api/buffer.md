@@ -287,7 +287,7 @@ for (const b of buf) {
 Additionally, the [`buf.values()`][], [`buf.keys()`][], and
 [`buf.entries()`][] methods can be used to create iterators.
 
-## Class: `Blob`
+## Class: `OG`
 <!-- YAML
 added: v15.7.0
 -->
